@@ -1,6 +1,8 @@
 # antichatlog
+
+# !!! VERY OLD LIKELY DOESNT WORK ANYMORE I DO NOT RECOMMEND USING !!!
+
 basic antichatlog script for roblox
-no more bans from insulting people
 
 1. put the script in autoattach
 2. wait for exploit to attach
